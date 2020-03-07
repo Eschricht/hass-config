@@ -1,0 +1,122 @@
+{
+    "data": {
+        "binary_sensor": {},
+        "deleted_ids": [],
+        "sensor": {
+            "30cbb81fecbc2bfa0b42f19bee9e81a28c02c9880f86c305d037002785a9f9c0_battery_level": {
+                "added": true,
+                "attributes": {
+                    "charger_type": "N/A",
+                    "is_charging": false
+                },
+                "device_class": "battery",
+                "icon": "mdi:battery-60",
+                "name": "Battery Level",
+                "state": 66,
+                "type": "sensor",
+                "unique_id": "battery_level",
+                "unit_of_measurement": "%",
+                "webhook_id": "30cbb81fecbc2bfa0b42f19bee9e81a28c02c9880f86c305d037002785a9f9c0"
+            },
+            "30cbb81fecbc2bfa0b42f19bee9e81a28c02c9880f86c305d037002785a9f9c0_geocoded_location": {
+                "added": true,
+                "attributes": {
+                    "Administrative Area": "Blekinge l\u00e4n",
+                    "Country": "Sverige",
+                    "ISO Country Code": "SE",
+                    "Locality": null,
+                    "Location": [
+                        56.1711436,
+                        15.5879322
+                    ],
+                    "Postal Code": "371 39",
+                    "Sub Administrative Area": null,
+                    "Sub Locality": "Galgamarken-Tross\u00f6",
+                    "Sub Thoroughfare": "5",
+                    "Thoroughfare": "Landsv\u00e4gsgatan"
+                },
+                "icon": "mdi:map",
+                "name": "Geocoded Location",
+                "state": "Landsv\u00e4gsgatan 5, 371 39 Karlskrona, Sverige",
+                "type": "sensor",
+                "unique_id": "geocoded_location",
+                "webhook_id": "30cbb81fecbc2bfa0b42f19bee9e81a28c02c9880f86c305d037002785a9f9c0"
+            },
+            "30cbb81fecbc2bfa0b42f19bee9e81a28c02c9880f86c305d037002785a9f9c0_wifi_connection": {
+                "added": true,
+                "attributes": {
+                    "bssid": "f8:08:4f:75:45:9a",
+                    "frequency": 5260,
+                    "ip_address": "192.168.0.5",
+                    "is_hidden": false,
+                    "link_speed": 866,
+                    "signal_level": -33
+                },
+                "icon": "mdi:wifi-strength-3",
+                "name": "Wifi Connection",
+                "state": "COMHEM_754594_5GHz",
+                "type": "sensor",
+                "unique_id": "wifi_connection",
+                "webhook_id": "30cbb81fecbc2bfa0b42f19bee9e81a28c02c9880f86c305d037002785a9f9c0"
+            },
+            "8c2d0741379d113179beffa31aa1ad1bcd0a8ef12e6d9c444d0500e5696f0f96_battery_level": {
+                "added": true,
+                "attributes": {
+                    "charger_type": "N/A",
+                    "is_charging": false
+                },
+                "device_class": "battery",
+                "icon": "mdi:battery-80",
+                "name": "Battery Level",
+                "state": 81,
+                "type": "sensor",
+                "unique_id": "battery_level",
+                "unit_of_measurement": "%",
+                "webhook_id": "8c2d0741379d113179beffa31aa1ad1bcd0a8ef12e6d9c444d0500e5696f0f96"
+            },
+            "8c2d0741379d113179beffa31aa1ad1bcd0a8ef12e6d9c444d0500e5696f0f96_geocoded_location": {
+                "added": true,
+                "attributes": {
+                    "Administrative Area": "Blekinge l\u00e4n",
+                    "Country": "Sverige",
+                    "ISO Country Code": "SE",
+                    "Locality": null,
+                    "Location": [
+                        56.171054,
+                        15.588320699999999
+                    ],
+                    "Postal Code": "371 39",
+                    "Sub Administrative Area": null,
+                    "Sub Locality": "Galgamarken-Tross\u00f6",
+                    "Sub Thoroughfare": "3",
+                    "Thoroughfare": "Bagaregatan"
+                },
+                "icon": "mdi:map",
+                "name": "Geocoded Location",
+                "state": "Bagaregatan 3, 371 39 Karlskrona, Sverige",
+                "type": "sensor",
+                "unique_id": "geocoded_location",
+                "webhook_id": "8c2d0741379d113179beffa31aa1ad1bcd0a8ef12e6d9c444d0500e5696f0f96"
+            },
+            "8c2d0741379d113179beffa31aa1ad1bcd0a8ef12e6d9c444d0500e5696f0f96_wifi_connection": {
+                "added": true,
+                "attributes": {
+                    "bssid": "f8:08:4f:75:45:9a",
+                    "frequency": 5260,
+                    "ip_address": "192.168.0.2",
+                    "is_hidden": false,
+                    "link_speed": 130,
+                    "signal_level": -68
+                },
+                "icon": "mdi:wifi-strength-2",
+                "name": "Wifi Connection",
+                "state": "COMHEM_754594_5GHz",
+                "type": "sensor",
+                "unique_id": "wifi_connection",
+                "webhook_id": "8c2d0741379d113179beffa31aa1ad1bcd0a8ef12e6d9c444d0500e5696f0f96"
+            }
+        }
+    },
+    "key": "mobile_app",
+    "version": 1
+}

@@ -1,0 +1,17 @@
+{
+    "data": {
+        "items": [
+            {
+                "icon": "mdi:map-marker",
+                "id": "johannes_arbete",
+                "latitude": 56.162122787683614,
+                "longitude": 15.595580935478212,
+                "name": "Johannes - Arbete",
+                "passive": false,
+                "radius": 46.05582342585801
+            }
+        ]
+    },
+    "key": "zone",
+    "version": 1
+}

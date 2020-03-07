@@ -1,0 +1,48 @@
+{
+    "data": {
+        "devices": [
+            {
+                "area_id": null,
+                "config_entries": [
+                    "e58b14582d6c42e4980e06805c6c7eef"
+                ],
+                "connections": [],
+                "id": "267d197638944fdf8af7e369d4c9ee96",
+                "identifiers": [
+                    [
+                        "mobile_app",
+                        "66e95636c5af8bab"
+                    ]
+                ],
+                "manufacturer": "OnePlus",
+                "model": "ONEPLUS A5010",
+                "name": "ONEPLUS A5010",
+                "name_by_user": null,
+                "sw_version": "28",
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "0c78ee837b604548a54e4bfecb2a9fef"
+                ],
+                "connections": [],
+                "id": "66da29abef7c40199cdcb3e2f76229fc",
+                "identifiers": [
+                    [
+                        "mobile_app",
+                        "c0e63e7d9640ceb0"
+                    ]
+                ],
+                "manufacturer": "Xiaomi",
+                "model": "Mi 9T Pro",
+                "name": "Mi 9T Pro",
+                "name_by_user": null,
+                "sw_version": "29",
+                "via_device_id": null
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}

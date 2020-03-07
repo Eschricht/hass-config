@@ -1,0 +1,44 @@
+{
+    "data": {
+        "areas": [
+            {
+                "id": "59d7c81e319e4796a0962599c87a6d43",
+                "name": "Vardagsrum"
+            },
+            {
+                "id": "bf668134cdb44d11b06a287bfba24202",
+                "name": "K\u00f6k"
+            },
+            {
+                "id": "26be269cedd544baad60851370a95cb0",
+                "name": "Sovrum"
+            },
+            {
+                "id": "595d2ef7cfc04577980751bc7d96252b",
+                "name": "Kontor"
+            },
+            {
+                "id": "fbbecfcae3a548e4955523a6d8ec98e1",
+                "name": "Badrum"
+            },
+            {
+                "id": "59c740515f1d443688227c57bc5b6d5d",
+                "name": "G\u00e4sttoa"
+            },
+            {
+                "id": "17d1895888394ec6b336359f6036eadc",
+                "name": "Finrum"
+            },
+            {
+                "id": "dcc5ad4a4b0c4aac886040f4d5078d44",
+                "name": "Barnens sovrum"
+            },
+            {
+                "id": "6da2612196ee4fbc8a90a0048f8e825d",
+                "name": "Hall"
+            }
+        ]
+    },
+    "key": "core.area_registry",
+    "version": 1
+}

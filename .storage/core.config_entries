@@ -1,0 +1,88 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "cloud_poll",
+                "data": {
+                    "track_home": true
+                },
+                "domain": "met",
+                "entry_id": "7e284e1cbf2e40a6869a879ec3590ada",
+                "options": {},
+                "source": "onboarding",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Home",
+                "unique_id": null,
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_push",
+                "data": {
+                    "app_data": {
+                        "push_token": "dpiWyFxSbss:APA91bENwe6aaQhRz4O9uJiWIEqPJx_xdewVec5RpLhek0yKMAWr8r5vYuyv-KiLlZtLwwSK2HOUuCt-V6NR05_p3VDzMf5GSma5oqng8zuN6KHXqPUMh5FuRhKz1eXxitXLOCyAYuPw",
+                        "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1"
+                    },
+                    "app_id": "io.homeassistant.companion.android",
+                    "app_name": "Home Assistant",
+                    "app_version": "1.8.0-144 (144)",
+                    "cloudhook_url": "https://hooks.nabu.casa/gAAAAABeY7LLB2_bFYNUEoGFxoTeRdGsrEo8zeiBQn6x2uUHLvMzy9fRquBLL8ZMFhSlvaS7X2XbsB3_lEsY4bbfZoKJJBQmCSqdh81RlEtAebprPAlbuN6JIS_tCgZ-uzSDY_1k4UpjssY6OykSd6MMEwQXvzKYXu-FmOrKFrsM6ki2HSoK2V0=",
+                    "device_id": "66e95636c5af8bab",
+                    "device_name": "ONEPLUS A5010",
+                    "manufacturer": "OnePlus",
+                    "model": "ONEPLUS A5010",
+                    "os_name": "Android",
+                    "os_version": "28",
+                    "supports_encryption": false,
+                    "user_id": "f56257ad2b12491a89d2bd9158f01b52",
+                    "webhook_id": "8c2d0741379d113179beffa31aa1ad1bcd0a8ef12e6d9c444d0500e5696f0f96"
+                },
+                "domain": "mobile_app",
+                "entry_id": "e58b14582d6c42e4980e06805c6c7eef",
+                "options": {},
+                "source": "registration",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "ONEPLUS A5010",
+                "unique_id": "io.homeassistant.companion.android-66e95636c5af8bab",
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_push",
+                "data": {
+                    "app_data": {
+                        "push_token": "fTklXe7zXhw:APA91bGKRiOIVg6YZfcNqmb1WrOOT3w33FRGgUQZ4VEsQ_Y565d6G2J4ZzZQZUkitPhFC0rzbAKCGHRBXlQ3d7ZVXAQAiMY4awYmCmyIMuJ7bozLUB1d1uj_HtRAtFPgkxi4QVZNrFdJ",
+                        "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1"
+                    },
+                    "app_id": "io.homeassistant.companion.android",
+                    "app_name": "Home Assistant",
+                    "app_version": "1.8.0-144 (144)",
+                    "cloudhook_url": "https://hooks.nabu.casa/gAAAAABeY7P2xyn_UuHqLfk9gI_CBbyu4BQNToOLDTDYo6RJ2NVaMz-VHq_UWk_m9JpjqoPv8Yk5drgCeqgou4lyI2nHbmvcamd52ex6nzIwtXqyCqGj0HilMEVWZybekfmx0Tf-IYIteXv_X2P7F9tJL-lWuRHpPPHpy_55JXTdNhKDFKcdaBc=",
+                    "device_id": "c0e63e7d9640ceb0",
+                    "device_name": "Mi 9T Pro",
+                    "manufacturer": "Xiaomi",
+                    "model": "Mi 9T Pro",
+                    "os_name": "Android",
+                    "os_version": "29",
+                    "supports_encryption": false,
+                    "user_id": "f1b20ef3c0674e6bb9aa81b58663ffba",
+                    "webhook_id": "30cbb81fecbc2bfa0b42f19bee9e81a28c02c9880f86c305d037002785a9f9c0"
+                },
+                "domain": "mobile_app",
+                "entry_id": "0c78ee837b604548a54e4bfecb2a9fef",
+                "options": {},
+                "source": "registration",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Mi 9T Pro",
+                "unique_id": "io.homeassistant.companion.android-c0e63e7d9640ceb0",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

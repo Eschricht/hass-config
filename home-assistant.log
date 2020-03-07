@@ -1,0 +1,122 @@
+2020-03-07 15:24:48 WARNING (MainThread) [hass_nabucasa.cloud_api] Fetched https://alexa-api.nabucasa.com/access_token (400)
+2020-03-07 15:24:48 ERROR (MainThread) [homeassistant.core] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 285, in _handle_entity_registry_updated
+    await self._sync_helper(to_update, to_remove)
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 239, in _sync_helper
+    await self.async_get_access_token()
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 128, in async_get_access_token
+    raise RequireRelink
+homeassistant.components.cloud.const.RequireRelink
+2020-03-07 15:32:05 WARNING (MainThread) [hass_nabucasa.cloud_api] Fetched https://alexa-api.nabucasa.com/access_token (400)
+2020-03-07 15:32:05 ERROR (MainThread) [homeassistant.core] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 285, in _handle_entity_registry_updated
+    await self._sync_helper(to_update, to_remove)
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 239, in _sync_helper
+    await self.async_get_access_token()
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 128, in async_get_access_token
+    raise RequireRelink
+homeassistant.components.cloud.const.RequireRelink
+2020-03-07 15:33:12 WARNING (MainThread) [hass_nabucasa.cloud_api] Fetched https://alexa-api.nabucasa.com/access_token (400)
+2020-03-07 15:33:12 ERROR (MainThread) [homeassistant.core] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 285, in _handle_entity_registry_updated
+    await self._sync_helper(to_update, to_remove)
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 239, in _sync_helper
+    await self.async_get_access_token()
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 128, in async_get_access_token
+    raise RequireRelink
+homeassistant.components.cloud.const.RequireRelink
+2020-03-07 15:38:15 WARNING (MainThread) [homeassistant.components.webhook] Received message for unregistered webhook 2e745a7b3df179c7edcd8d4edb5646aecebf02934d2179f5a47ef7f973445a1f
+2020-03-07 15:38:15 WARNING (MainThread) [homeassistant.components.webhook] Received message for unregistered webhook 2e745a7b3df179c7edcd8d4edb5646aecebf02934d2179f5a47ef7f973445a1f
+2020-03-07 15:38:15 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from 127.0.0.1
+2020-03-07 15:38:15 WARNING (MainThread) [homeassistant.components.webhook] Received message for unregistered webhook 2e745a7b3df179c7edcd8d4edb5646aecebf02934d2179f5a47ef7f973445a1f
+2020-03-07 15:38:15 WARNING (MainThread) [homeassistant.components.webhook] Received message for unregistered webhook 2e745a7b3df179c7edcd8d4edb5646aecebf02934d2179f5a47ef7f973445a1f
+2020-03-07 15:38:15 WARNING (MainThread) [homeassistant.components.webhook] Received message for unregistered webhook 2e745a7b3df179c7edcd8d4edb5646aecebf02934d2179f5a47ef7f973445a1f
+2020-03-07 15:38:16 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from 127.0.0.1
+2020-03-07 15:42:25 WARNING (MainThread) [hass_nabucasa.cloud_api] Fetched https://alexa-api.nabucasa.com/access_token (400)
+2020-03-07 15:42:25 ERROR (MainThread) [homeassistant.core] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 285, in _handle_entity_registry_updated
+    await self._sync_helper(to_update, to_remove)
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 239, in _sync_helper
+    await self.async_get_access_token()
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 128, in async_get_access_token
+    raise RequireRelink
+homeassistant.components.cloud.const.RequireRelink
+2020-03-07 15:42:34 ERROR (MainThread) [homeassistant.components.mobile_app.webhook] Refusing to update non-registered sensor: 8c2d0741379d113179beffa31aa1ad1bcd0a8ef12e6d9c444d0500e5696f0f96_battery_level
+2020-03-07 15:42:34 ERROR (MainThread) [homeassistant.components.mobile_app.webhook] Refusing to update non-registered sensor: 8c2d0741379d113179beffa31aa1ad1bcd0a8ef12e6d9c444d0500e5696f0f96_wifi_connection
+2020-03-07 15:42:34 ERROR (MainThread) [homeassistant.components.mobile_app.webhook] Refusing to update non-registered sensor: 8c2d0741379d113179beffa31aa1ad1bcd0a8ef12e6d9c444d0500e5696f0f96_geocoded_location
+2020-03-07 15:42:36 ERROR (MainThread) [homeassistant.components.mobile_app.webhook] Refusing to re-register existing sensor battery_level!
+2020-03-07 15:42:36 ERROR (MainThread) [homeassistant.components.mobile_app.webhook] Refusing to re-register existing sensor battery_level!
+2020-03-07 15:42:36 WARNING (MainThread) [hass_nabucasa.cloud_api] Fetched https://alexa-api.nabucasa.com/access_token (400)
+2020-03-07 15:42:36 ERROR (MainThread) [homeassistant.core] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 285, in _handle_entity_registry_updated
+    await self._sync_helper(to_update, to_remove)
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 239, in _sync_helper
+    await self.async_get_access_token()
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 128, in async_get_access_token
+    raise RequireRelink
+homeassistant.components.cloud.const.RequireRelink
+2020-03-07 15:42:38 WARNING (MainThread) [hass_nabucasa.cloud_api] Fetched https://alexa-api.nabucasa.com/access_token (400)
+2020-03-07 15:42:38 ERROR (MainThread) [homeassistant.core] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 285, in _handle_entity_registry_updated
+    await self._sync_helper(to_update, to_remove)
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 239, in _sync_helper
+    await self.async_get_access_token()
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 128, in async_get_access_token
+    raise RequireRelink
+homeassistant.components.cloud.const.RequireRelink
+2020-03-07 15:42:38 WARNING (MainThread) [hass_nabucasa.cloud_api] Fetched https://alexa-api.nabucasa.com/access_token (400)
+2020-03-07 15:42:38 ERROR (MainThread) [homeassistant.core] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 285, in _handle_entity_registry_updated
+    await self._sync_helper(to_update, to_remove)
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 239, in _sync_helper
+    await self.async_get_access_token()
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 128, in async_get_access_token
+    raise RequireRelink
+homeassistant.components.cloud.const.RequireRelink
+2020-03-07 15:47:20 WARNING (MainThread) [hass_nabucasa.cloud_api] Fetched https://alexa-api.nabucasa.com/access_token (400)
+2020-03-07 15:47:20 ERROR (MainThread) [homeassistant.core] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 285, in _handle_entity_registry_updated
+    await self._sync_helper(to_update, to_remove)
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 239, in _sync_helper
+    await self.async_get_access_token()
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 128, in async_get_access_token
+    raise RequireRelink
+homeassistant.components.cloud.const.RequireRelink
+2020-03-07 15:48:21 WARNING (MainThread) [hass_nabucasa.cloud_api] Fetched https://alexa-api.nabucasa.com/access_token (400)
+2020-03-07 15:48:21 ERROR (MainThread) [homeassistant.core] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 285, in _handle_entity_registry_updated
+    await self._sync_helper(to_update, to_remove)
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 239, in _sync_helper
+    await self.async_get_access_token()
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 128, in async_get_access_token
+    raise RequireRelink
+homeassistant.components.cloud.const.RequireRelink
+2020-03-07 15:48:21 WARNING (MainThread) [hass_nabucasa.cloud_api] Fetched https://alexa-api.nabucasa.com/access_token (400)
+2020-03-07 15:48:21 ERROR (MainThread) [homeassistant.core] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 285, in _handle_entity_registry_updated
+    await self._sync_helper(to_update, to_remove)
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 239, in _sync_helper
+    await self.async_get_access_token()
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 128, in async_get_access_token
+    raise RequireRelink
+homeassistant.components.cloud.const.RequireRelink
+2020-03-07 15:48:22 WARNING (MainThread) [hass_nabucasa.cloud_api] Fetched https://alexa-api.nabucasa.com/access_token (400)
+2020-03-07 15:48:22 ERROR (MainThread) [homeassistant.core] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 285, in _handle_entity_registry_updated
+    await self._sync_helper(to_update, to_remove)
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 239, in _sync_helper
+    await self.async_get_access_token()
+  File "/usr/src/homeassistant/homeassistant/components/cloud/alexa_config.py", line 128, in async_get_access_token
+    raise RequireRelink
+homeassistant.components.cloud.const.RequireRelink

@@ -1,0 +1,106 @@
+{
+    "data": [
+        {
+            "last_seen": "2020-03-07T15:07:35.002973+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "Johannes",
+                    "gps_accuracy": 17,
+                    "id": "johannes",
+                    "latitude": 56.1709857,
+                    "longitude": 15.5881441,
+                    "source": "device_tracker.oneplus_a5010",
+                    "user_id": "f56257ad2b12491a89d2bd9158f01b52"
+                },
+                "context": {
+                    "id": "6df3f9c8e2a047a48ad68b0678d36ed2",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.johannes",
+                "last_changed": "2020-03-07T14:42:36.093224+00:00",
+                "last_updated": "2020-03-07T15:02:59.479685+00:00",
+                "state": "home"
+            }
+        },
+        {
+            "last_seen": "2020-03-07T15:07:35.002973+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "Evelina",
+                    "gps_accuracy": 17,
+                    "id": "evelina",
+                    "latitude": 56.1710181,
+                    "longitude": 15.5880594,
+                    "source": "device_tracker.mi_9t_pro",
+                    "user_id": "f1b20ef3c0674e6bb9aa81b58663ffba"
+                },
+                "context": {
+                    "id": "a8dc45fc412247249cfb2b0e817e2e85",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.evelina",
+                "last_changed": "2020-03-07T14:48:15.481155+00:00",
+                "last_updated": "2020-03-07T15:00:55.182393+00:00",
+                "state": "home"
+            }
+        },
+        {
+            "last_seen": "2020-03-07T15:07:35.002973+00:00",
+            "state": {
+                "attributes": {
+                    "altitude": 41.0,
+                    "battery_level": 81,
+                    "course": 0,
+                    "friendly_name": "ONEPLUS A5010",
+                    "gps_accuracy": 17,
+                    "latitude": 56.1709857,
+                    "longitude": 15.5881441,
+                    "source_type": "gps",
+                    "speed": 0,
+                    "vertical_accuracy": 2
+                },
+                "context": {
+                    "id": "c50f7c84f3814494a5569cf37aa7c45e",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "device_tracker.oneplus_a5010",
+                "last_changed": "2020-03-07T15:05:09.739660+00:00",
+                "last_updated": "2020-03-07T15:05:09.739660+00:00",
+                "state": "home"
+            }
+        },
+        {
+            "last_seen": "2020-03-07T15:07:35.002973+00:00",
+            "state": {
+                "attributes": {
+                    "altitude": 41.0,
+                    "battery_level": 66,
+                    "course": 0,
+                    "friendly_name": "Mi 9T Pro",
+                    "gps_accuracy": 17,
+                    "latitude": 56.1710181,
+                    "longitude": 15.5880594,
+                    "source_type": "gps",
+                    "speed": 0,
+                    "vertical_accuracy": 2
+                },
+                "context": {
+                    "id": "58cc6c2ebad6423ea34c435bfe3c675f",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "device_tracker.mi_9t_pro",
+                "last_changed": "2020-03-07T15:06:00.735539+00:00",
+                "last_updated": "2020-03-07T15:06:00.735539+00:00",
+                "state": "home"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}
