@@ -10,9 +10,9 @@
                     "is_charging": false
                 },
                 "device_class": "battery",
-                "icon": "mdi:battery-60",
+                "icon": "mdi:battery-80",
                 "name": "Battery Level",
-                "state": 66,
+                "state": 89,
                 "type": "sensor",
                 "unique_id": "battery_level",
                 "unit_of_measurement": "%",
@@ -26,18 +26,18 @@
                     "ISO Country Code": "SE",
                     "Locality": null,
                     "Location": [
-                        56.1711436,
-                        15.5879322
+                        56.171054,
+                        15.588320699999999
                     ],
                     "Postal Code": "371 39",
                     "Sub Administrative Area": null,
                     "Sub Locality": "Galgamarken-Tross\u00f6",
-                    "Sub Thoroughfare": "5",
-                    "Thoroughfare": "Landsv\u00e4gsgatan"
+                    "Sub Thoroughfare": "3",
+                    "Thoroughfare": "Bagaregatan"
                 },
                 "icon": "mdi:map",
                 "name": "Geocoded Location",
-                "state": "Landsv\u00e4gsgatan 5, 371 39 Karlskrona, Sverige",
+                "state": "Bagaregatan 3, 371 39 Karlskrona, Sverige",
                 "type": "sensor",
                 "unique_id": "geocoded_location",
                 "webhook_id": "30cbb81fecbc2bfa0b42f19bee9e81a28c02c9880f86c305d037002785a9f9c0"
@@ -50,7 +50,7 @@
                     "ip_address": "192.168.0.5",
                     "is_hidden": false,
                     "link_speed": 866,
-                    "signal_level": -33
+                    "signal_level": -46
                 },
                 "icon": "mdi:wifi-strength-3",
                 "name": "Wifi Connection",
@@ -66,9 +66,9 @@
                     "is_charging": false
                 },
                 "device_class": "battery",
-                "icon": "mdi:battery-80",
+                "icon": "mdi:battery-30",
                 "name": "Battery Level",
-                "state": 81,
+                "state": 31,
                 "type": "sensor",
                 "unique_id": "battery_level",
                 "unit_of_measurement": "%",
@@ -106,7 +106,7 @@
                     "ip_address": "192.168.0.2",
                     "is_hidden": false,
                     "link_speed": 130,
-                    "signal_level": -68
+                    "signal_level": -71
                 },
                 "icon": "mdi:wifi-strength-2",
                 "name": "Wifi Connection",
